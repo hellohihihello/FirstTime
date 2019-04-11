@@ -1,2 +1,0 @@
-# FirstTime
-My First repository
